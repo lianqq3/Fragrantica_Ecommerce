@@ -7,7 +7,7 @@ This is a functional e-commerce website developed as a school project, showcasin
 - Shopping Cart: Add or remove items, and view the cart’s total cost in real-time.
 - Stripe Payment Integration: Secure checkout experience using Stripe for payment processing.
 
-# Technologies Used
+# 
 - Vanilla HTML and CSS, Javascript
 - Payment Gateway: Stripe
 
