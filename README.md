@@ -1,4 +1,4 @@
-# E-commerce Website
+# Overview
 
 This is a functional e-commerce website developed as a school project, showcasing essential e-commerce functionalities and payment processing with Stripe. Built using JavaScript, HTML, and CSS, this site allows users to browse products, add them to their cart, and securely complete purchases.
 
